@@ -1,2 +1,2 @@
-# plugin-template
-A starter template for developing new plugins, ensuring consistency and ease of development.
+# plugin-bash
+Executes shell commands or scripts, bringing command-line operations into play.
